@@ -3,21 +3,21 @@ const pads = document.querySelectorAll(".pad");
 
 const sounds = {
 
-  tom: "sounds/tom.wav",
+  tom: "sounds/tom.mp3",
 
-  rom: "sounds/rom.wav",
+  rom: "sounds/rom.mp3",
 
-  crash: "sounds/crash.wav",
+  crash: "sounds/crash.mp3",
 
-  bell: "sounds/bell.wav",
+  bell: "sounds/bell.mp3",
 
-  kick: "sounds/kick.wav",
+  kick: "sounds/kick.mp3",
 
-  snare: "sounds/snare.wav",
+  snare: "sounds/snare.mp3",
 
-  "closed-hihat": "sounds/closed-hihat.wav",
+  "closed-hihat": "sounds/closed-hihat.mp3",
 
-  "open-hihat": "sounds/open-hihat.wav"
+  "open-hihat": "sounds/open-hihat.mp3"
 
 };
 
